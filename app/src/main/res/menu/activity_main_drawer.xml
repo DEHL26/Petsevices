@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_notifications"
+            android:icon="@drawable/ic_notifications_black_24dp"
+            android:title="Mis notificaciones" />
+        <item
+            android:id="@+id/nav_gallery"
+            android:icon="@drawable/ic_view_list_black_24dp"
+            android:title="Categorias" />
+        <item
+            android:id="@+id/nav_slideshow"
+            android:icon="@drawable/ic_library_add_black_24dp"
+            android:title="Alta de servicios" />
+        <item
+        android:id="@+id/nav_setting"
+        android:icon="@drawable/ic_settings_black_24dp"
+        android:title="Configuracion" />
+        <item
+            android:id="@+id/nav_nresgit"
+            android:icon="@drawable/ic_settings_black_24dp"
+            android:onClick="Regist"
+            android:title="Regitrarse" />
+        <item
+            android:id="@+id/nav_Cerrasesion"
+            android:icon="@drawable/ic_power_settings_new_black_24dp"
+            android:title="Cerrar sesion" />
+    </group>
+
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Compartir" />
+        </menu>
+    </item>
+
+</menu>

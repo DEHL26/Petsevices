@@ -20,6 +20,9 @@
             android:background="@android:color/holo_blue_light"
             android:text="Registro" />
 
+
+
+
         <EditText
             android:id="@+id/etNombre"
             android:layout_width="match_parent"
@@ -27,6 +30,8 @@
             android:ems="10"
             android:hint="Nombre"
             android:inputType="textPersonName" />
+
+
 
         <EditText
             android:id="@+id/etCEmail"
@@ -36,6 +41,8 @@
             android:hint="Email"
             android:inputType="textEmailAddress" />
 
+
+
         <EditText
             android:id="@+id/etPassword"
             android:layout_width="match_parent"
@@ -43,6 +50,8 @@
             android:ems="10"
             android:hint="Contaseña"
             android:inputType="textPassword" />
+
+
 
         <EditText
             android:id="@+id/etConfpasswors"
@@ -52,14 +61,19 @@
             android:hint="Confirmar Contraseña"
             android:inputType="textPassword" />
 
+
+
+
         <CheckBox
             android:id="@+id/etChexk"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="Acepto condiciones" />
 
+
+
         <Button
-            android:id="@+id/btnRegistro"
+            android:id="@+id/brnGuardar"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:background="@android:color/holo_blue_light"

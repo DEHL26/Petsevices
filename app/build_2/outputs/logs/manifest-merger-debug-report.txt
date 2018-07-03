@@ -1,0 +1,200 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Hdz\OneDrive\Petsevices\app\src\main\AndroidManifest.xml:2:1-35:12
+INJECTED from C:\Users\Hdz\OneDrive\Petsevices\app\src\main\AndroidManifest.xml:2:1-35:12
+INJECTED from C:\Users\Hdz\OneDrive\Petsevices\app\src\main\AndroidManifest.xml:2:1-35:12
+INJECTED from C:\Users\Hdz\OneDrive\Petsevices\app\src\main\AndroidManifest.xml:2:1-35:12
+MERGED from [com.android.support:design:27.1.1] C:\Users\Hdz\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\e027edbd6ca0b0a3798e7f0947ed9cac\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Hdz\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\435ba2cd4c7e336bac9146eda362ce48\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.1] C:\Users\Hdz\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.1.aar\8f9ab698b285913625ecb3c42d19e7bc\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\Hdz\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.1.aar\ff8ce4cdcfb281230f4989ac47d15070\AndroidManifest.xml:17:1-32:12
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Hdz\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\c81924806bbee25c255f40270d36bfba\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\Hdz\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\06a2ea1c5b73be150e208c191af8057a\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Hdz\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\9fd24fe627be4f5ca252f509b178a51f\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Hdz\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\5608f357675c69abc92ff5b1519d3f58\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Hdz\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\04dbf60259236a1ac5cd01a0afd4be9b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Hdz\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\f8e5745813395288a4ed39dfc5ff427e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Hdz\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\6dbc056d6e61433a695243ec8d3ca481\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Hdz\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\8e58f396a43f1a021c1254af8eda7e94\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Hdz\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\63d237dac220df74b96783de440a50a9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Hdz\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\14ffabc6b01ba27e0cde32bd5e574530\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] C:\Users\Hdz\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\ffdb89dd94f3f8aad447b6d3dcb00b0d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Hdz\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\9b2f9ff7a73e0013d07bb87217aae9fe\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Hdz\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\d1cdcf9dbb487d426f8fc392649a68c7\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Hdz\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\ea4d264033aec1e47152c2e5176db5d5\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Hdz\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\212ffeaebf5dbd23b4e598aa828c0906\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Hdz\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\b8c29632c6b8a90fb46fc4e789bd3a64\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Hdz\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\3249b98ade4bda303f5888c78f5165d0\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\Hdz\OneDrive\Petsevices\app\src\main\AndroidManifest.xml:2:1-35:12
+INJECTED from C:\Users\Hdz\OneDrive\Petsevices\app\src\main\AndroidManifest.xml:2:1-35:12
+INJECTED from C:\Users\Hdz\OneDrive\Petsevices\app\src\main\AndroidManifest.xml:2:1-35:12
+	package
+		ADDED from C:\Users\Hdz\OneDrive\Petsevices\app\src\main\AndroidManifest.xml:3:5-41
+		INJECTED from C:\Users\Hdz\OneDrive\Petsevices\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Hdz\OneDrive\Petsevices\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Hdz\OneDrive\Petsevices\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Hdz\OneDrive\Petsevices\app\src\main\AndroidManifest.xml:2:1-35:12
+		INJECTED from C:\Users\Hdz\OneDrive\Petsevices\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Hdz\OneDrive\Petsevices\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Hdz\OneDrive\Petsevices\app\src\main\AndroidManifest.xml:2:1-35:12
+		INJECTED from C:\Users\Hdz\OneDrive\Petsevices\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Hdz\OneDrive\Petsevices\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from C:\Users\Hdz\OneDrive\Petsevices\app\src\main\AndroidManifest.xml:6:5-71
+	android:name
+		ADDED from C:\Users\Hdz\OneDrive\Petsevices\app\src\main\AndroidManifest.xml:6:22-68
+uses-permission#android.permission.READ_PROFILE
+ADDED from C:\Users\Hdz\OneDrive\Petsevices\app\src\main\AndroidManifest.xml:7:5-71
+	android:name
+		ADDED from C:\Users\Hdz\OneDrive\Petsevices\app\src\main\AndroidManifest.xml:7:22-68
+uses-permission#android.permission.READ_CONTACTS
+ADDED from C:\Users\Hdz\OneDrive\Petsevices\app\src\main\AndroidManifest.xml:8:5-72
+	android:name
+		ADDED from C:\Users\Hdz\OneDrive\Petsevices\app\src\main\AndroidManifest.xml:8:22-69
+application
+ADDED from C:\Users\Hdz\OneDrive\Petsevices\app\src\main\AndroidManifest.xml:10:5-33:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.1] C:\Users\Hdz\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.1.aar\8f9ab698b285913625ecb3c42d19e7bc\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.1] C:\Users\Hdz\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.1.aar\8f9ab698b285913625ecb3c42d19e7bc\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\Hdz\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.1.aar\ff8ce4cdcfb281230f4989ac47d15070\AndroidManifest.xml:30:5-20
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\Hdz\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.1.aar\ff8ce4cdcfb281230f4989ac47d15070\AndroidManifest.xml:30:5-20
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Hdz\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\c81924806bbee25c255f40270d36bfba\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Hdz\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\c81924806bbee25c255f40270d36bfba\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\Hdz\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\06a2ea1c5b73be150e208c191af8057a\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\Hdz\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\06a2ea1c5b73be150e208c191af8057a\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Hdz\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\9fd24fe627be4f5ca252f509b178a51f\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Hdz\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\9fd24fe627be4f5ca252f509b178a51f\AndroidManifest.xml:22:5-26:19
+	android:supportsRtl
+		ADDED from C:\Users\Hdz\OneDrive\Petsevices\app\src\main\AndroidManifest.xml:15:9-35
+	android:label
+		ADDED from C:\Users\Hdz\OneDrive\Petsevices\app\src\main\AndroidManifest.xml:13:9-41
+	android:roundIcon
+		ADDED from C:\Users\Hdz\OneDrive\Petsevices\app\src\main\AndroidManifest.xml:14:9-54
+	android:icon
+		ADDED from C:\Users\Hdz\OneDrive\Petsevices\app\src\main\AndroidManifest.xml:12:9-43
+	android:allowBackup
+		ADDED from C:\Users\Hdz\OneDrive\Petsevices\app\src\main\AndroidManifest.xml:11:9-35
+	android:theme
+		ADDED from C:\Users\Hdz\OneDrive\Petsevices\app\src\main\AndroidManifest.xml:16:9-40
+activity#com.petservices.petsevices.Login
+ADDED from C:\Users\Hdz\OneDrive\Petsevices\app\src\main\AndroidManifest.xml:17:9-25:20
+	android:label
+		ADDED from C:\Users\Hdz\OneDrive\Petsevices\app\src\main\AndroidManifest.xml:19:13-45
+	android:name
+		ADDED from C:\Users\Hdz\OneDrive\Petsevices\app\src\main\AndroidManifest.xml:18:13-34
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Hdz\OneDrive\Petsevices\app\src\main\AndroidManifest.xml:20:13-24:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Hdz\OneDrive\Petsevices\app\src\main\AndroidManifest.xml:21:17-69
+	android:name
+		ADDED from C:\Users\Hdz\OneDrive\Petsevices\app\src\main\AndroidManifest.xml:21:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Hdz\OneDrive\Petsevices\app\src\main\AndroidManifest.xml:23:17-77
+	android:name
+		ADDED from C:\Users\Hdz\OneDrive\Petsevices\app\src\main\AndroidManifest.xml:23:27-74
+activity#com.petservices.petsevices.Bienvenido
+ADDED from C:\Users\Hdz\OneDrive\Petsevices\app\src\main\AndroidManifest.xml:26:9-48
+	android:name
+		ADDED from C:\Users\Hdz\OneDrive\Petsevices\app\src\main\AndroidManifest.xml:26:19-45
+activity#com.petservices.petsevices.RegistroUse
+ADDED from C:\Users\Hdz\OneDrive\Petsevices\app\src\main\AndroidManifest.xml:27:9-49
+	android:name
+		ADDED from C:\Users\Hdz\OneDrive\Petsevices\app\src\main\AndroidManifest.xml:27:19-46
+activity#com.petservices.petsevices.MainActivity
+ADDED from C:\Users\Hdz\OneDrive\Petsevices\app\src\main\AndroidManifest.xml:28:9-31:59
+	android:label
+		ADDED from C:\Users\Hdz\OneDrive\Petsevices\app\src\main\AndroidManifest.xml:30:13-56
+	android:theme
+		ADDED from C:\Users\Hdz\OneDrive\Petsevices\app\src\main\AndroidManifest.xml:31:13-56
+	android:name
+		ADDED from C:\Users\Hdz\OneDrive\Petsevices\app\src\main\AndroidManifest.xml:29:13-41
+activity#com.petservices.petsevices.RegServicios
+ADDED from C:\Users\Hdz\OneDrive\Petsevices\app\src\main\AndroidManifest.xml:32:9-59
+	android:name
+		ADDED from C:\Users\Hdz\OneDrive\Petsevices\app\src\main\AndroidManifest.xml:32:19-47
+uses-sdk
+INJECTED from C:\Users\Hdz\OneDrive\Petsevices\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Hdz\OneDrive\Petsevices\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Hdz\OneDrive\Petsevices\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:27.1.1] C:\Users\Hdz\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\e027edbd6ca0b0a3798e7f0947ed9cac\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] C:\Users\Hdz\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\e027edbd6ca0b0a3798e7f0947ed9cac\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Hdz\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\435ba2cd4c7e336bac9146eda362ce48\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Hdz\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\435ba2cd4c7e336bac9146eda362ce48\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.1] C:\Users\Hdz\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.1.aar\8f9ab698b285913625ecb3c42d19e7bc\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.1] C:\Users\Hdz\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.1.aar\8f9ab698b285913625ecb3c42d19e7bc\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\Hdz\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.1.aar\ff8ce4cdcfb281230f4989ac47d15070\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\Hdz\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.1.aar\ff8ce4cdcfb281230f4989ac47d15070\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Hdz\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\c81924806bbee25c255f40270d36bfba\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Hdz\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\c81924806bbee25c255f40270d36bfba\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\Hdz\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\06a2ea1c5b73be150e208c191af8057a\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\Hdz\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\06a2ea1c5b73be150e208c191af8057a\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Hdz\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\9fd24fe627be4f5ca252f509b178a51f\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Hdz\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\9fd24fe627be4f5ca252f509b178a51f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Hdz\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\5608f357675c69abc92ff5b1519d3f58\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Hdz\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\5608f357675c69abc92ff5b1519d3f58\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Hdz\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\04dbf60259236a1ac5cd01a0afd4be9b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Hdz\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\04dbf60259236a1ac5cd01a0afd4be9b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Hdz\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\f8e5745813395288a4ed39dfc5ff427e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Hdz\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\f8e5745813395288a4ed39dfc5ff427e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Hdz\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\6dbc056d6e61433a695243ec8d3ca481\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Hdz\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\6dbc056d6e61433a695243ec8d3ca481\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Hdz\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\8e58f396a43f1a021c1254af8eda7e94\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Hdz\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\8e58f396a43f1a021c1254af8eda7e94\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Hdz\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\63d237dac220df74b96783de440a50a9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Hdz\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\63d237dac220df74b96783de440a50a9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Hdz\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\14ffabc6b01ba27e0cde32bd5e574530\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Hdz\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\14ffabc6b01ba27e0cde32bd5e574530\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\Hdz\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\ffdb89dd94f3f8aad447b6d3dcb00b0d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\Hdz\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\ffdb89dd94f3f8aad447b6d3dcb00b0d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Hdz\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\9b2f9ff7a73e0013d07bb87217aae9fe\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Hdz\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\9b2f9ff7a73e0013d07bb87217aae9fe\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Hdz\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\d1cdcf9dbb487d426f8fc392649a68c7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Hdz\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\d1cdcf9dbb487d426f8fc392649a68c7\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Hdz\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\ea4d264033aec1e47152c2e5176db5d5\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Hdz\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\ea4d264033aec1e47152c2e5176db5d5\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Hdz\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\212ffeaebf5dbd23b4e598aa828c0906\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Hdz\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\212ffeaebf5dbd23b4e598aa828c0906\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Hdz\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\b8c29632c6b8a90fb46fc4e789bd3a64\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Hdz\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\b8c29632c6b8a90fb46fc4e789bd3a64\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Hdz\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\3249b98ade4bda303f5888c78f5165d0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Hdz\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\3249b98ade4bda303f5888c78f5165d0\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\Hdz\OneDrive\Petsevices\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Hdz\OneDrive\Petsevices\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Hdz\OneDrive\Petsevices\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Hdz\OneDrive\Petsevices\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Hdz\OneDrive\Petsevices\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Hdz\OneDrive\Petsevices\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Hdz\OneDrive\Petsevices\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Hdz\OneDrive\Petsevices\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\Hdz\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.1.aar\ff8ce4cdcfb281230f4989ac47d15070\AndroidManifest.xml:23:5-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\Hdz\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.1.aar\ff8ce4cdcfb281230f4989ac47d15070\AndroidManifest.xml:23:22-76
+uses-permission#android.permission.INTERNET
+ADDED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\Hdz\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.1.aar\ff8ce4cdcfb281230f4989ac47d15070\AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\Hdz\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.1.aar\ff8ce4cdcfb281230f4989ac47d15070\AndroidManifest.xml:24:22-64
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\Hdz\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.1.aar\ff8ce4cdcfb281230f4989ac47d15070\AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\Hdz\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.1.aar\ff8ce4cdcfb281230f4989ac47d15070\AndroidManifest.xml:27:9-41
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\Hdz\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.1.aar\ff8ce4cdcfb281230f4989ac47d15070\AndroidManifest.xml:28:9-32
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Hdz\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\c81924806bbee25c255f40270d36bfba\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Hdz\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\c81924806bbee25c255f40270d36bfba\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Hdz\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\c81924806bbee25c255f40270d36bfba\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Hdz\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\c81924806bbee25c255f40270d36bfba\AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Hdz\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\9fd24fe627be4f5ca252f509b178a51f\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Hdz\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\9fd24fe627be4f5ca252f509b178a51f\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Hdz\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\9fd24fe627be4f5ca252f509b178a51f\AndroidManifest.xml:24:13-58

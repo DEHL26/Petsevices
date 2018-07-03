@@ -27,9 +27,9 @@ public class Login extends AppCompatActivity {
     public void verificar(View v) {
         String usuario=et1.getText().toString();
         String clave=et2.getText().toString();
-        if(usuario.equals("Esperanza") && clave.equals("Hernandez1")) {
-            Intent i = new Intent(this, RegistroUse.class);
-            startActivity(i);
+        if(usuario.equals("Perros") && clave.equals("12345")) {
+          Intent i = new Intent(this, RegistroUse.class);
+           startActivity(i);
         }
         else{
             Toast notification= Toast.makeText(this,"Clave incorrecta",Toast.LENGTH_LONG);
